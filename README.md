@@ -7,7 +7,7 @@ models and using their relationships to display more interesting data.
 - In the controllers, this lab will require you to write `show` and `index`
   actions for both `Song` and `Artist`.
 
-- You'll need to add a foreign key by writing your own migration.
+- You'll need to add a foreign key by writicleng your own migration.
 
 - You'll need to set up the association in the model classes.
 
